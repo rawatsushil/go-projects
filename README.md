@@ -6,13 +6,7 @@ A curated collection of Go projects designed to help developers progress from be
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Projects List](#projects-list)
-  - [Beginner](#beginner)
-  - [Intermediate](#intermediate)
-  - [Advanced](#advanced)
 - [Contribution Guidelines](#contribution-guidelines)
-- [Resources](#resources)
-- [License](#license)
 
 ## Introduction
 
@@ -24,3 +18,10 @@ This repository houses a range of projects implemented in Go. Whether you're a b
 2. Clone this repository:
    ```bash
    git clone https://github.com/your-username/go-projects-collection.git
+
+## Contribution Guidelines
+We welcome contributions! If you'd like to add a project or improve existing ones:
+
+Fork the repository.
+Make your changes.
+Submit a pull request with a description of your changes.
